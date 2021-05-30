@@ -1,2 +1,2 @@
-const root = document.getElementById("root");
-root.innerHTML = "Hello World";
+const appRoot = document.getElementById("root");
+appRoot.innerHTML = "Hello World";
